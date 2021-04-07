@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This is a dataset for multi-domain Indonesian sentiment analysis. This dataset contains 489,000 reviews from four domains (hotel, restaurant, airline, and e-commerce), and each review is annotated with one of three sentiment polarities (positive, neutral, and negative).
+This Indonesian dataset is constructed for multi-domain sentiment analysis. It contains 489,000 reviews from four domains (hotel, restaurant, airline, and e-commerce), and each review is annotated with one of three sentiment polarities (positive, neutral, or negative). As few datasets are provided for Indonesian multi-domain sentiment analysis, we hope our dataset can help the researchers who focus on this research field. For more details of our dataset, please see our paper “Multi-domain Sentiment Classification on Self-constructed Indonesian Dataset”.
 
 
 ## Citation
