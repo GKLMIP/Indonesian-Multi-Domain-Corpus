@@ -1,7 +1,13 @@
 # Indonesian-Multi-Domain-Corpus
 
+## Introduction
+
+This is a dataset for multi-domain Indonesian sentiment analysis. This dataset contains 489,000 reviews from four domains (hotel, restaurant, airline, and e-commerce), and each review is annotated with one of three sentiment polarities (positive, neutral, and negative).
+
 
 ## Citation
+
+If you use our corpus, please consider citing our paper:
 ```
 @InProceedings{10.1007/978-3-030-60450-9_62,
 author="Lin, Nankai
